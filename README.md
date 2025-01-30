@@ -1,4 +1,4 @@
-![Shakir's GitHub Banner](https://imgur.com/mINZOLS)
+![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
 
 # Hi there! 👋 I'm Shakir
 
