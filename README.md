@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shakir
 
-<!--
-**alams36/alams36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Embedded Software Engineer | Controls & Avionics | Cybersecurity**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 About Me
+🎓 **Computer Engineering Student @ McMaster University**  
+💼 **Embedded Software Engineer Co-op @ L3Harris WESCAM**  
+🎯 **Controls Sub-Team Member @ McMaster Rocketry**  
+🎮 **CTF Player | CyberSci Regionals Competitor**  
+
+I specialize in **real-time systems, firmware development, control systems, and cybersecurity.** Passionate about **low-level programming, embedded security, and avionics software.**
+
+---
+
+## 💻 Tech Stack
+
+### **🛠️ Embedded & Systems Programming:**  
+- C | C++ | Python | Rust (learning)  
+- RTOS | Bare-Metal | Linux  
+- STM32 | MSP432 | FPGA (VHDL/Verilog)  
+
+### **🔍 Cybersecurity & Reverse Engineering:**  
+- Binary Exploitation | Web Security | Cryptography  
+- Ghidra | GDB | Wireshark | Burp Suite  
+- Capture The Flag (CTF) Player  
+
+### **📡 Avionics & Controls:**  
+- Control Systems Design | Signal Processing  
+- KiCad | PCB Design | Telemetry Systems  
+- MATLAB | Simulink  
+
+---
+
+## 📌 Projects & Experience
+🚀 **Rocket Avionics:** STM32-based telemetry, data acquisition & PCB design  
+💾 **Firmware Development:** Real-time sensor interfacing & communication  
+🔓 **Cybersecurity:** Web exploits, RE challenges, & penetration testing  
+📡 **Digital Signal Processing:** Implemented real-time filtering & processing algorithms  
+
+---
+
+## 🌱 Currently Learning
+- **Rust for Embedded Systems**  
+- **Control Systems Design**  
+- **Driver Development**  
+
+---
+
+🔗 **LinkedIn:** [linkedin.com/in/shakir-alam](https://www.linkedin.com/in/shakir-alam/)
