@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
+![Banner](https://raw.githubusercontent.com/alams36/alams36/main/banner.png)
 
 # Hi there! 👋 I'm Shakir
 
