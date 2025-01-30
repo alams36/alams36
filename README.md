@@ -1,5 +1,6 @@
-![Banner](https://raw.githubusercontent.com/alams36/alams36/main/banner.png)
-
+<p align="center">
+  <img src="main/banner.png" width="1000px" height="250px">
+</p>
 # Hi there! 👋 I'm Shakir
 
 🚀 **Embedded Software Engineer | Controls & Avionics | Cybersecurity**
